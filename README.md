@@ -8,7 +8,7 @@
 # Repositório documental
 Este repositório de documentos destina-se aos alunos do curso de engenharia biomédica do isep.
 
-Aqui vão encontrar diversos documentos, divididos por anos , semestres e cadeira.
+Aqui vão encontrar diversos documentos, divididos por anos , semestres e cadeiras.
 
 Em cada pasta vão encontrar outro `README.md` no qual vai conter informação sobre cada repositório de documentos, contendo links importantes , imagens e tabelas.
 
