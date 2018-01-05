@@ -4,7 +4,7 @@
 
 | Sigla | Descrição | ECTS |
 | --- | --- | :---: |
-| `ALGEST` | Algoritmia Programação e Estrutura de dados - Pseudo código e Programação C   | 5 |
+| `ALGESTD` | Algoritmia Programação e Estrutura de dados - Pseudo código e Programação C   | 5 |
 | `CALC1` | Cálculo Diferencial e Integral I - Revisões 12º + Derivação + Integração + Séries | 5 |
 | `CIMATE` | Ciência dos Materiais - Bases para Engenharia dos materiais | 5 |
 | `DACOMP` | Desenho Assistido por Computador - Solidworks | 3 |
